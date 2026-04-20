@@ -67,7 +67,7 @@ This project presents an interactive **Sales Analytics Dashboard** built using *
 * Data Visualization Techniques
 
 
-## 📌 Use Cases
+## Use Cases
 
 * Business performance analysis
 * Sales strategy planning
@@ -75,9 +75,6 @@ This project presents an interactive **Sales Analytics Dashboard** built using *
 * Regional market analysis
 
 
-
----
-
-## 👤 Author
+##  Author
 
 **Mant (GitHub: Mant-0957)**
